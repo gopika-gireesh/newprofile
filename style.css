@@ -44,7 +44,6 @@
     margin-top: -10px;
     color: rgb(167,165,165);
 }
-
 .skills {
     display: flex;
     justify-content: center;
@@ -60,6 +59,7 @@
     height: 150px;
     margin-bottom: -90px;
 }
+
 
 #i1{
     margin-left: 100px;
